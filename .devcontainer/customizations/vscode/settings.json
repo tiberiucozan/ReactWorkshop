@@ -1,0 +1,6 @@
+// .devcontainer/customizations/vscode/settings.json
+{
+  "settings": {
+  "terminal.integrated.shell.linux": "/bin/bash"
+  }
+}
